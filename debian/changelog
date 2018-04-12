@@ -1,9 +1,0 @@
-ros-indigo-warthog-gazebo (0.0.1-0trusty) trusty; urgency=high
-
-  * [warthog_gazebo] Updated joint names.
-  * Initial commit.
-  * Contributors: Tony Baltovski
-
- -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Thu, 12 Apr 2018 04:00:00 -0000
-
-
