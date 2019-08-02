@@ -2,7 +2,7 @@
 Changelog for package warthog_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.1 (2018-04-12)
+0.1.0 (2019-08-02)
 ------------------
 * Initial commit.
 * Contributors: Tony Baltovski
