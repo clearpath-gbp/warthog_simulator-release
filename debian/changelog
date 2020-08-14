@@ -1,0 +1,22 @@
+ros-kinetic-warthog-gazebo (0.1.1-1xenial) xenial; urgency=high
+
+  * Add yaw to the arguments for spawn_warthog
+  * Moved spawning into a specific launch, so this is more portable to other packages
+  * Include the same playpen world that we use with the Moose & use it as the warthog_world's map.  Add additional launch files for the race world & empty world
+  * Contributors: Chris I-B, Chris Iverach-Brereton, Dave Niewinski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Fri, 14 Aug 2020 04:00:00 -0000
+
+ros-kinetic-warthog-gazebo (0.1.0-1xenial) xenial; urgency=high
+
+  * Set a blank default world
+  * Re added world selection in gazebo launch
+  * Removed unnecessary laser argument in world launch
+  * Added C11 compiling
+  * [warthog_gazebo] Updated joint names.
+  * Initial commit.
+  * Contributors: Dave Niewinski, Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Fri, 02 Aug 2019 04:00:00 -0000
+
+
