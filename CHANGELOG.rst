@@ -2,6 +2,11 @@
 Changelog for package warthog_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.2 (2022-01-18)
+------------------
+* Use the new arg added in warthog_control to always enable the game controller input when using Gazebo.
+* Contributors: Chris Iverach-Brereton
+
 0.2.1 (2020-08-14)
 ------------------
 * Add yaw to the arguments for spawn_warthog
